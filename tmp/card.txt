@@ -1,0 +1,7 @@
+save
+1
+save
+2
+remove
+0
+readAll
